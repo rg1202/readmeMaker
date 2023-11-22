@@ -38,7 +38,7 @@ const questions = [
     {
         type: 'input',
         name: 'tests',
-        message: 'Please provide any tests for your application and how to run them.',
+        message: 'What is the USER story for your application and ACCEPTANCE criteria?',
     },
     {
         type: 'list',

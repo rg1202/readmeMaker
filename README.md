@@ -1,7 +1,7 @@
-# Readme Maker
-  ![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)
+# Title
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
   ## Description
-  When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This should include what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions—this last part increases the likelihood that other developers will contribute to the success of the project.
+  Description
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -11,18 +11,18 @@
   * [License](#license)
   * [Questions](#questions)
   ## Installation
-  use 'node index.js' in your terminal
+  Steps
   ## Usage
-  instructions and examples...
+  Instructions
   ## Screenshots
   ![Screenshot](./assets/screenshot.png)
   ## Contributing
-  Rob Gould
+  Me
   ## Tests
-  AS A developer
+  US AC
   ## License
-  This project is licensed under the terms of the BSD license.
-  [License](https://opensource.org/licenses/BSD-3-Clause)
+  This project is licensed under the terms of the MIT license.
+  [License: MIT](https://opensource.org/licenses/MIT)
   ## Questions
   For any questions, please contact me at rgould.midwest@gmail.com or visit my GitHub page:
-  [rg1202] 
+  [https://github.com/rg1202] 

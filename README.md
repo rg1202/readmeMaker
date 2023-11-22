@@ -15,7 +15,7 @@
   ## Usage
   instructions and examples...
   ## Screenshots
-  
+  ![Screenshot](./assets/images/screenshot.png)
   ## Contributing
   Rob Gould
   ## Tests

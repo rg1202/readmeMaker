@@ -41,6 +41,11 @@ const questions = [
         message: 'What is the USER story for your application and ACCEPTANCE criteria?',
     },
     {
+        type: 'input',
+        name: 'tests',
+        message: 'What are the installation instructions for your application?',
+    },
+    {
         type: 'list',
         name: 'license',
         message: 'Please select a license.',
